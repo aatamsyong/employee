@@ -65,7 +65,7 @@ project/
 
 ## 4. Cara Menjalankan Aplikasi
 1. Buka folder project ini.
-2. Klik ganda file `run_app.bat`, atau jalankan melalui terminal:
+2. double-click file `run_app.bat`, atau jalankan melalui terminal:
    ```powershell
    streamlit run app.py
    ```
