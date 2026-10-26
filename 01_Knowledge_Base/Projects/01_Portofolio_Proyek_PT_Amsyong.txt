@@ -1,0 +1,132 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Projects
+doc_number: AMS-PORT-2026-001
+---
+
+# PORTFOLIO DAN DATA PROYEK
+## Rekam Jejak Proyek PT Amsyong
+
+Nomor Dokumen: AMS-PORT-2026-001  
+Status: DATA FIKTIF UNTUK PENGUJIAN
+
+### A. Ringkasan Portofolio
+
+PT Amsyong memiliki lima catatan proyek simulasi yang dapat digunakan untuk menguji fitur pencarian proyek, filter berdasarkan nilai, status penyelesaian, serta penghitungan total kontrak.
+
+| ID Proyek | Nama Proyek | Klien Fiktif | Tahun | Nilai Simulasi | Status |
+|---|---|---|---:|---:|---|
+| AMS-PRJ-001 | Implementasi Sistem Inventaris | PT Sumber Data Contoh | 2022 | Rp125.000.000 | Selesai |
+| AMS-PRJ-002 | Pengadaan Komputer Kantor | PT Karya Nusantara Fiktif | 2023 | Rp280.000.000 | Selesai |
+| AMS-PRJ-003 | Digitalisasi Arsip | CV Arsip Digital Contoh | 2024 | Rp95.000.000 | Selesai |
+| AMS-PRJ-004 | Infrastruktur Jaringan | PT Mitra Teknologi Simulasi | 2025 | Rp175.000.000 | Selesai |
+| AMS-PRJ-005 | Aplikasi Manajemen Dokumen | PT Contoh Mitra Nusantara | 2026 | Rp55.500.000 | Dalam simulasi |
+
+Total nilai lima proyek: **Rp730.500.000**.
+
+Angka ini merupakan penjumlahan data proyek rekaan, bukan pendapatan aktual perusahaan.
+
+### B. Detail Proyek AMS-PRJ-001
+
+Nama: Implementasi Sistem Inventaris.
+
+Klien: PT Sumber Data Contoh.
+
+Periode: Januari-Maret 2022.
+
+Nilai kontrak simulasi: Rp125.000.000.
+
+Ruang lingkup:
+- Analisis proses inventaris.
+- Pengembangan modul pencatatan aset.
+- Pembuatan laporan inventaris.
+- Pelatihan administrator.
+- Dokumentasi sistem.
+
+Keluaran:
+- Aplikasi inventaris.
+- Panduan pengguna.
+- Laporan pengujian.
+- Dokumen serah terima simulasi.
+
+Status: Selesai.
+
+### C. Detail Proyek AMS-PRJ-002
+
+Nama: Pengadaan Komputer Kantor.
+
+Klien: PT Karya Nusantara Fiktif.
+
+Periode: Mei-Agustus 2023.
+
+Nilai kontrak simulasi: Rp280.000.000.
+
+Ruang lingkup:
+- Pengadaan komputer dan monitor.
+- Pengiriman perangkat.
+- Instalasi sistem operasi.
+- Konfigurasi jaringan.
+- Pengujian perangkat.
+
+Status: Selesai.
+
+### D. Detail Proyek AMS-PRJ-003
+
+Nama: Digitalisasi Arsip.
+
+Klien: CV Arsip Digital Contoh.
+
+Periode: Februari-April 2024.
+
+Nilai kontrak simulasi: Rp95.000.000.
+
+Ruang lingkup:
+- Inventarisasi dokumen.
+- Pemindaian dokumen.
+- Pengelompokan metadata.
+- Pengujian pencarian dokumen.
+- Penyusunan prosedur penyimpanan.
+
+Status: Selesai.
+
+### E. Detail Proyek AMS-PRJ-004
+
+Nama: Infrastruktur Jaringan.
+
+Klien: PT Mitra Teknologi Simulasi.
+
+Periode: Maret-Juni 2025.
+
+Nilai kontrak simulasi: Rp175.000.000.
+
+Ruang lingkup:
+- Survei kebutuhan jaringan.
+- Pengadaan perangkat jaringan.
+- Instalasi kabel.
+- Konfigurasi switch dan router.
+- Pengujian konektivitas.
+
+Status: Selesai.
+
+### F. Detail Proyek AMS-PRJ-005
+
+Nama: Aplikasi Manajemen Dokumen.
+
+Klien: PT Contoh Mitra Nusantara.
+
+Periode: Oktober-November 2026.
+
+Nilai proposal simulasi: Rp55.500.000.
+
+Ruang lingkup:
+- Pengembangan aplikasi.
+- Pengaturan hak akses.
+- Pencarian dokumen.
+- Migrasi data contoh.
+- Pelatihan pengguna.
+
+Status: Dalam simulasi, belum dianggap selesai.
+
+**Catatan:** Proyek-proyek di atas tidak boleh digunakan sebagai bukti pengalaman nyata atau referensi tender sungguhan.

@@ -1,0 +1,27 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: CRM
+doc_number: AMS-CRM-2026-001
+---
+
+# CATATAN INTERAKSI DAN HUBUNGAN PELANGGAN( SIMULASI)
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Profil Mitra Simulasi Utama
+- Klien: PT Contoh Mitra Nusantara
+  - Kontak: Bagian Pengadaan dan Operasional
+  - Kebutuhan: Implementasi Sistem Manajemen Dokumen Digital
+  - Status Saat Ini: Pembahasan Proposal Penawaran (AMS-PRO-2026-001)
+
+- Klien: PT Infrastruktur Contoh Indonesia
+  - Kontak: Panitia Pengadaan Barang dan Jasa
+  - Kebutuhan: Pengadaan 30 Unit Komputer Desktop dan Jaringan
+  - Status Saat Ini: Penyiapan Berkas Tender (TDR-SIM-2026-014)
+
+## 2. Riwayat Kepuasan Pelanggan Simulasi
+- PT Sumber Data Contoh (Proyek Inventaris 2022): Nilai evaluasi 95/100, pekerjaan selesai tepat waktu.
+- PT Karya Nusantara Fiktif (Proyek Komputer 2023): Nilai evaluasi 92/100, unit terpasang sesuai spesifikasi.
+- CV Arsip Digital Contoh (Proyek Arsip 2024): Nilai evaluasi 90/100, migrasi metadata rapi.
+- PT Mitra Teknologi Simulasi (Proyek Jaringan 2025): Nilai evaluasi 94/100, konektivitas stabil.

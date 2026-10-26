@@ -1,0 +1,112 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Tender
+tender_number: TDR-SIM-2026-014
+---
+
+# TENDER
+## Dokumen Persyaratan Tender dan Kerangka Acuan Kerja
+
+Nomor Tender: TDR-SIM-2026-014  
+Nama Paket: Pengadaan Perangkat Komputer dan Infrastruktur Jaringan  
+Pemilik Proyek: PT Infrastruktur Contoh Indonesia (fiktif)  
+Status: DOKUMEN SIMULASI
+
+### A. Informasi Tender
+
+Nama paket pekerjaan: Pengadaan 30 unit komputer desktop beserta infrastruktur jaringan pendukung.
+
+Lokasi pekerjaan: Kantor pusat PT Infrastruktur Contoh Indonesia, Jakarta.
+
+Pagu anggaran simulasi: Rp450.000.000.
+
+Durasi pelaksanaan: 45 hari kalender.
+
+### B. Persyaratan Administrasi Peserta
+
+Peserta tender dalam simulasi ini harus menyediakan:
+
+1. Profil perusahaan.
+2. Dokumen legalitas perusahaan yang relevan.
+3. Surat pernyataan tidak sedang dikenai sanksi.
+4. Surat penawaran harga.
+5. Daftar pengalaman pekerjaan.
+6. Daftar personel pelaksana.
+7. Surat dukungan distributor apabila dipersyaratkan.
+8. Pernyataan kesanggupan memenuhi jadwal.
+9. Dokumen pajak yang dipersyaratkan dalam skenario tender.
+
+Persyaratan aktual harus disesuaikan dengan peraturan dan dokumen tender yang berlaku.
+
+### C. Spesifikasi Teknis
+
+| Komponen | Spesifikasi Minimum Simulasi | Jumlah |
+|---|---|---:|
+| Komputer desktop | RAM 16 GB, SSD 512 GB | 30 unit |
+| Monitor | LED 24 inci | 30 unit |
+| Keyboard dan mouse | USB, perangkat baru | 30 set |
+| Switch jaringan | Managed switch 24 port | 2 unit |
+| Router | Mendukung VLAN dan firewall | 1 unit |
+| Kabel jaringan | Cat 6 | 1 paket |
+| Instalasi | Konfigurasi dan pengujian | 1 paket |
+
+Spesifikasi di atas merupakan contoh untuk pengujian aplikasi, bukan rekomendasi pengadaan final.
+
+### D. Kerangka Acuan Kerja (KAK/TOR)
+
+**1. Latar Belakang**
+
+Organisasi membutuhkan perangkat komputer dan infrastruktur jaringan untuk mendukung kegiatan operasional.
+
+**2. Maksud dan Tujuan**
+
+Menyediakan perangkat yang sesuai dengan kebutuhan pengguna serta memastikan seluruh perangkat dapat digunakan setelah instalasi.
+
+**3. Ruang Lingkup**
+
+- Pengadaan perangkat.
+- Pengiriman ke lokasi.
+- Instalasi perangkat.
+- Konfigurasi jaringan.
+- Pengujian fungsi.
+- Pelatihan dasar.
+- Penyerahan dokumentasi.
+
+**4. Keluaran Pekerjaan**
+
+- 30 komputer desktop terpasang.
+- Infrastruktur jaringan berfungsi.
+- Dokumen inventaris perangkat.
+- Laporan pengujian.
+- Berita acara serah terima simulasi.
+
+**5. Jadwal**
+
+- Minggu 1: Persiapan dan pemesanan.
+- Minggu 2-3: Pengadaan dan pengiriman.
+- Minggu 4-5: Instalasi dan konfigurasi.
+- Minggu 6: Pengujian dan serah terima.
+
+**6. Kriteria Evaluasi Simulasi**
+
+| Kriteria | Bobot |
+|---|---:|
+| Evaluasi administrasi | Memenuhi/tidak memenuhi |
+| Kesesuaian teknis | 35% |
+| Harga penawaran | 30% |
+| Pengalaman relevan | 20% |
+| Jadwal dan dukungan | 15% |
+
+Bobot ini hanya contoh. Bobot tender sebenarnya harus ditetapkan oleh penyelenggara sesuai aturan yang berlaku.
+
+### E. Daftar Periksa Tender
+
+- [ ] Dokumen administrasi lengkap.
+- [ ] Spesifikasi teknis sesuai.
+- [ ] Harga sudah dihitung.
+- [ ] Jadwal pelaksanaan tersedia.
+- [ ] Data vendor pendukung tersedia.
+- [ ] Dokumen penawaran sudah ditinjau.
+- [ ] Persetujuan internal tercatat.

@@ -1,0 +1,102 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Proposal
+doc_number: AMS-PRO-2026-001
+---
+
+# PROPOSAL
+## Proposal Pengadaan dan Implementasi Sistem Manajemen Dokumen Digital
+
+Nomor: AMS-PRO-2026-001  
+Tanggal: 12 Oktober 2026  
+Pemohon: PT Amsyong  
+Ditujukan kepada: PT Contoh Mitra Nusantara (fiktif)  
+Status: DOKUMEN SIMULASI
+
+### A. Latar Belakang
+
+PT Contoh Mitra Nusantara menghadapi tantangan dalam pengelolaan dokumen operasional. Dokumen disimpan dalam beberapa folder berbeda sehingga pencarian, pengendalian versi, dan pemantauan status persetujuan membutuhkan waktu lebih lama.
+
+PT Amsyong mengusulkan implementasi sistem manajemen dokumen digital untuk membantu proses penyimpanan, pencarian, pengelompokan, dan pelacakan dokumen.
+
+### B. Tujuan
+
+1. Memusatkan penyimpanan dokumen.
+2. Mempercepat pencarian dokumen.
+3. Mengurangi risiko penggunaan dokumen versi lama.
+4. Menyediakan pencatatan aktivitas pengguna.
+5. Mempermudah pemantauan status dokumen.
+
+### C. Ruang Lingkup Pekerjaan
+
+- Analisis kebutuhan pengguna.
+- Perancangan struktur dokumen.
+- Pengembangan aplikasi berbasis web.
+- Implementasi fitur pencarian.
+- Pengaturan hak akses pengguna.
+- Migrasi maksimal 5.000 dokumen contoh.
+- Pelatihan maksimal 15 pengguna.
+- Penyusunan dokumentasi teknis.
+- Pemeliharaan selama 90 hari setelah serah terima.
+
+### D. Rencana Pelaksanaan
+
+| Tahap | Kegiatan | Durasi |
+|---|---|---|
+| 1 | Analisis kebutuhan | 5 hari kerja |
+| 2 | Desain sistem | 5 hari kerja |
+| 3 | Pengembangan aplikasi | 15 hari kerja |
+| 4 | Pengujian sistem | 5 hari kerja |
+| 5 | Pelatihan dan implementasi | 5 hari kerja |
+| 6 | Serah terima | 2 hari kerja |
+
+Estimasi keseluruhan: 37 hari kerja.
+
+### E. Rencana Anggaran Biaya
+
+| No. | Uraian | Jumlah | Harga Satuan | Total |
+|---|---|---:|---:|---:|
+| 1 | Analisis kebutuhan | 1 paket | Rp8.000.000 | Rp8.000.000 |
+| 2 | Pengembangan aplikasi | 1 paket | Rp25.000.000 | Rp25.000.000 |
+| 3 | Infrastruktur dan konfigurasi | 1 paket | Rp7.500.000 | Rp7.500.000 |
+| 4 | Migrasi dokumen | 1 paket | Rp4.000.000 | Rp4.000.000 |
+| 5 | Pelatihan pengguna | 1 paket | Rp3.000.000 | Rp3.000.000 |
+| 6 | Dokumentasi dan serah terima | 1 paket | Rp2.500.000 | Rp2.500.000 |
+| | **Subtotal** | | | **Rp50.000.000** |
+| | Pajak simulasi 11% | | | Rp5.500.000 |
+| | **Total** | | | **Rp55.500.000** |
+
+Nilai anggaran merupakan angka simulasi, bukan penawaran komersial yang berlaku.
+
+### F. Metode Pembayaran
+
+- Termin pertama: 30% setelah persetujuan pekerjaan.
+- Termin kedua: 40% setelah pengembangan selesai.
+- Termin ketiga: 30% setelah serah terima.
+
+### G. Contoh Kriteria Proposal yang Berpotensi Menang
+
+Proposal pengadaan umumnya perlu menunjukkan:
+
+1. Kesesuaian terhadap kebutuhan dan spesifikasi.
+2. Metode pelaksanaan yang realistis.
+3. Jadwal dan sumber daya yang memadai.
+4. Harga yang wajar dan transparan.
+5. Pengalaman relevan yang dapat diverifikasi.
+6. Rencana pengujian dan mitigasi risiko.
+7. Dukungan setelah implementasi.
+8. Kelengkapan administrasi sesuai persyaratan.
+
+Tidak ada jaminan proposal akan menang hanya karena memenuhi daftar tersebut. Hasil seleksi bergantung pada kriteria dan keputusan pihak penyelenggara.
+
+### H. Penutup
+
+PT Amsyong berharap proposal simulasi ini dapat menjadi dasar pembahasan mengenai kebutuhan sistem manajemen dokumen digital.
+
+Disusun oleh:
+
+Budi Santoso  
+Direktur Utama PT Amsyong  
+Tanda tangan: [AREA TANDA TANGAN SIMULASI]

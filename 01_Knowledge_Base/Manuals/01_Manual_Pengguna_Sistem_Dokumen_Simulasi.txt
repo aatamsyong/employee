@@ -1,0 +1,26 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Manuals
+doc_number: AMS-MAN-2026-001
+---
+
+# PANDUAN PENGGUNA SISTEM MANAJEMEN DOKUMEN SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Akses dan Masuk Sistem
+- Buka peramban web dan arahkan ke alamat lokal server aplikasi internal.
+- Masukkan nama pengguna dan kata sandi yang telah didaftarkan oleh administrator.
+- Pilih menu Beranda untuk melihat ringkasan berkas yang baru diunggah.
+
+## 2. Cara Mengunggah Berkas Dokumen
+1. Klik tombol "Unggah Dokumen" pada sudut kanan atas halaman arsip.
+2. Pilih berkas dari komputer (format teks, dokumen, atau formulir).
+3. Isi kolom metadata: Kategori, Tanggal Dokumen, Nomor Referensi, dan Kata Kunci.
+4. Klik tombol "Simpan" untuk memproses pengindeksan dokumen.
+
+## 3. Fitur Pencarian Cepat
+- Ketik kata kunci pada kotak pencarian utama (misal: "Pengadaan Komputer", "SOP").
+- Gunakan filter kategori di sisi kiri untuk mempersempit hasil pencarian.
+- Klik judul berkas untuk melihat pratinjau teks atau mengunduh salinan berkas.

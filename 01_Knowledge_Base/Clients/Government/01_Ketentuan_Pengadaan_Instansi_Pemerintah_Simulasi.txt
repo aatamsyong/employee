@@ -1,0 +1,21 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Clients
+subcategory: Government
+doc_number: AMS-CLI-GOV-001
+---
+
+# KETENTUAN DAN SYARAT ADMINISTRASI SEKTOR PEMERINTAH SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Persyaratan Kualifikasi Rekanan Instansi Pemerintah
+- Kepemilikan Nomor Induk Berusaha (NIB) dan status badan usaha aktif.
+- Kepatuhan kewajiban perpajakan dengan bukti Surat Keterangan Pajak tahun berjalan.
+- Surat pernyataan kebenaran data dan pakta integritas bebas dari sanksi daftar hitam.
+
+## 2. Alur Pengadaan Pengujian
+- Pendaftaran paket pengadaan pada portal simulasi.
+- Pengunggahan dokumen penawaran teknis dan harga sebelum batas waktu penutupan.
+- Sesi pembuktian kualifikasi dan klarifikasi teknis bersama panitia pengadaan.

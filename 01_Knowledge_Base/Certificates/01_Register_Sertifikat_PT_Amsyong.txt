@@ -1,0 +1,125 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Certificates
+doc_number: AMS-CERT-2026-001
+---
+
+# SERTIFIKAT DAN DOKUMEN KUALIFIKASI
+## Register Sertifikat PT Amsyong
+
+Nomor Dokumen: AMS-CERT-2026-001  
+Tanggal Pencatatan Simulasi: 21 Oktober 2026  
+Status: REGISTER DATA DUMMY
+
+**Penting:** Bagian ini hanya mencatat contoh data sertifikat untuk pengujian perangkat lunak. Tidak ada sertifikat resmi yang diterbitkan atau diklaim valid.
+
+### A. Daftar Sertifikat
+
+| ID | Nama Dokumen | Nomor Simulasi | Penerbit Simulasi | Masa Berlaku | Status |
+|---|---|---|---|---|---|
+| CERT-001 | Sertifikat Badan Usaha | SIM-SBU-001 | Lembaga Contoh | 2026-2027 | Dummy |
+| CERT-002 | Sertifikat ISO 9001 | SIM-ISO9001-001 | Badan Sertifikasi Contoh | 2026-2029 | Dummy |
+| CERT-003 | Sertifikat ISO 27001 | SIM-ISO27001-001 | Badan Sertifikasi Contoh | 2026-2029 | Dummy |
+| CERT-004 | Sertifikat Pelatihan Pengadaan | SIM-TRN-001 | Akademi Pengadaan Fiktif | 2026-2028 | Dummy |
+| CERT-005 | Surat Keterangan Pajak | SIM-TAX-001 | Instansi Contoh | 2026 | Dummy |
+
+Nama penerbit dan nomor dokumen di atas merupakan data rekaan.
+
+### B. Detail CERT-001: Sertifikat Badan Usaha
+
+Nama perusahaan: PT Amsyong.
+
+Jenis dokumen: Sertifikat Badan Usaha.
+
+Nomor dokumen: SIM-SBU-001.
+
+Tanggal penerbitan simulasi: 1 Januari 2026.
+
+Tanggal berakhir simulasi: 31 Desember 2027.
+
+Status: Dummy, tidak memiliki kekuatan hukum.
+
+Informasi yang dapat digunakan untuk pengujian:
+- Nomor sertifikat.
+- Nama perusahaan.
+- Jenis sertifikat.
+- Tanggal penerbitan.
+- Tanggal kedaluwarsa.
+- Status validasi.
+- Lokasi file.
+- Catatan pemeriksa.
+
+### C. Detail CERT-002: ISO 9001
+
+Nama perusahaan: PT Amsyong.
+
+Standar yang dicontohkan: ISO 9001, sistem manajemen mutu.
+
+Nomor simulasi: SIM-ISO9001-001.
+
+Tanggal penerbitan simulasi: 1 Januari 2026.
+
+Tanggal kedaluwarsa simulasi: 31 Desember 2029.
+
+Status: Dummy, bukan sertifikat ISO yang sah.
+
+Catatan: Pengujian sistem dapat menggunakan dokumen ini untuk memeriksa fitur pengingat masa berlaku dan pelacakan status sertifikat.
+
+### D. Detail CERT-003: ISO 27001
+
+Nama perusahaan: PT Amsyong.
+
+Standar yang dicontohkan: ISO/IEC 27001, sistem manajemen keamanan informasi.
+
+Nomor simulasi: SIM-ISO27001-001.
+
+Tanggal penerbitan simulasi: 1 Januari 2026.
+
+Tanggal kedaluwarsa simulasi: 31 Desember 2029.
+
+Status: Dummy, bukan sertifikat ISO yang sah.
+
+### E. Detail CERT-004: Sertifikat Pelatihan Pengadaan
+
+Nama peserta: Budi Santoso.
+
+Nama pelatihan: Dasar-Dasar Pengadaan Barang dan Jasa.
+
+Nomor simulasi: SIM-TRN-001.
+
+Penyelenggara simulasi: Akademi Pengadaan Fiktif.
+
+Tanggal pelatihan: 15 September 2026.
+
+Status: Data pelatihan fiktif.
+
+### F. Detail CERT-005: Surat Keterangan Pajak
+
+Nama perusahaan: PT Amsyong.
+
+Nomor simulasi: SIM-TAX-001.
+
+Periode data: Tahun 2026.
+
+Status: Dummy, bukan dokumen perpajakan resmi.
+
+### G. Prosedur Verifikasi Sertifikat
+
+1. Catat nama dokumen dan nomor sertifikat.
+2. Periksa identitas pemilik sertifikat.
+3. Periksa nama penerbit.
+4. Periksa tanggal penerbitan dan kedaluwarsa.
+5. Verifikasi dokumen melalui penerbit atau sistem resmi yang relevan.
+6. Catat hasil verifikasi.
+7. Perbarui status dokumen.
+8. Aktifkan pengingat sebelum tanggal kedaluwarsa.
+
+Status yang disarankan dalam aplikasi:
+- Belum diverifikasi.
+- Terverifikasi.
+- Akan kedaluwarsa.
+- Kedaluwarsa.
+- Ditolak.
+- Dummy untuk pengujian.

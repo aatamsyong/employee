@@ -1,0 +1,20 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Clients
+subcategory: Private
+doc_number: AMS-CLI-PVT-001
+---
+
+# PROFIL KERJASAMA PENGADAAN SEKTOR SWASTA SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Karakteristik Kebutuhan Klien Swasta
+- Fleksibilitas tinggi dalam pemilihan spesifikasi perangkat keras dan fitur perangkat lunak.
+- Fokus utama pada kecepatan serah terima barang dan efisiensi alur administrasi kerja.
+- Penekanan pada pelatihan langsung agar staf operasional dapat segera mandiri menggunakan sistem.
+
+## 2. Pola Penagihan dan Faktur
+- Uang muka (DP) 30% setelah konfirmasi surat pesanan resmi (PO).
+- Pelunasan 70% setelah seluruh perangkat terpasang dan berita acara serah terima ditandatangani.

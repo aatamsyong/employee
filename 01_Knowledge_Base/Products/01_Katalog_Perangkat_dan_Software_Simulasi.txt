@@ -1,0 +1,30 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Products
+doc_number: AMS-PRD-2026-001
+---
+
+# KATALOG PRODUK DAN PAKET PERANGKAT SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Paket Komputer Desktop Bisnis (AMS-PC-01)
+- Processor: Quad-Core 3.5 GHz
+- RAM: 16 GB DDR4
+- Storage: 512 GB NVMe SSD
+- Monitor: LED 24 Inci Full HD
+- Keyboard dan Mouse: USB Optical
+- Sistem Operasi: Standar Bisnis Berlisensi
+
+## 2. Paket Perangkat Jaringan Kantor (AMS-NET-01)
+- Switch: Managed Switch 24 Port Gigabit
+- Router: Multi-WAN dengan dukungan VLAN dan Firewall internal
+- Patch Panel: 24 Port Cat 6 Rak Standar
+- Kabel UTP: Kategori 6 Unshielded Twisted Pair 305 Meter
+
+## 3. Paket Aplikasi Sistem Manajemen Dokumen (AMS-SOFT-DOC)
+- Berbasis web, dapat diakses via peramban lokal tanpa instalasi rumit.
+- Modul pencarian arsip cerdas berbasis judul, nomor dokumen, dan metadata.
+- Modul kontrol versi (versioning) untuk mencegah benturan revisi.
+- Modul pencatatan log riwayat unduhan dan persetujuan berkas.

@@ -1,0 +1,133 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Vendor
+doc_number: AMS-VND-2026-001
+---
+
+# DATA VENDOR DAN SUBKONTRAKTOR
+## Direktori Vendor PT Amsyong
+
+Nomor Dokumen: AMS-VND-2026-001  
+Tanggal Pembaruan Simulasi: 20 Oktober 2026  
+Status: DATA FIKTIF
+
+### A. Daftar Vendor
+
+| ID Vendor | Nama Vendor | Bidang | Kota | Kontak Simulasi | Status |
+|---|---|---|---|---|---|
+| VND-001 | PT Komputindo Contoh | Komputer dan laptop | Jakarta | vendor001@example.com | Aktif |
+| VND-002 | CV Jaringan Simulasi | Perangkat jaringan | Depok | vendor002@example.com | Aktif |
+| VND-003 | PT Digital Arsip Fiktif | Digitalisasi dokumen | Bandung | vendor003@example.com | Evaluasi |
+| VND-004 | CV Logistik Rekaan | Pengiriman barang | Bekasi | vendor004@example.com | Aktif |
+| VND-005 | PT Perangkat Kantor Dummy | Peralatan kantor | Tangerang | vendor005@example.com | Ditangguhkan |
+
+Seluruh nama perusahaan dan kontak merupakan data simulasi. Domain `.example` digunakan sebagai domain contoh, bukan alamat kontak operasional.
+
+### B. Detail Vendor VND-001
+
+Nama: PT Komputindo Contoh.
+
+Bidang: Pengadaan komputer, monitor, dan aksesori.
+
+Produk contoh:
+- Komputer desktop.
+- Laptop bisnis.
+- Monitor.
+- Perangkat input.
+- Aksesori komputer.
+
+Estimasi waktu pengiriman: 7-14 hari kalender.
+
+Ketentuan pembayaran simulasi: 30 hari setelah dokumen penerimaan dan tagihan dinyatakan lengkap.
+
+Status evaluasi: Aktif dalam database simulasi.
+
+### C. Detail Vendor VND-002
+
+Nama: CV Jaringan Simulasi.
+
+Bidang: Perangkat jaringan dan instalasi.
+
+Layanan:
+- Pengadaan switch.
+- Pengadaan router.
+- Instalasi kabel jaringan.
+- Konfigurasi jaringan.
+- Pemecahan masalah konektivitas.
+
+Estimasi waktu pelaksanaan: 5-10 hari kerja.
+
+Status evaluasi: Aktif dalam database simulasi.
+
+### D. Detail Vendor VND-003
+
+Nama: PT Digital Arsip Fiktif.
+
+Bidang: Digitalisasi dokumen.
+
+Layanan:
+- Pemindaian dokumen.
+- Pengindeksan.
+- Pemberian metadata.
+- Pemeriksaan kualitas hasil pemindaian.
+- Penyusunan arsip digital.
+
+Status evaluasi: Dalam evaluasi.
+
+Alasan: Dokumen administrasi dan hasil uji kualitas masih perlu diperiksa dalam skenario pengujian.
+
+### E. Detail Vendor VND-004
+
+Nama: CV Logistik Rekaan.
+
+Bidang: Pengiriman barang.
+
+Layanan:
+- Pengiriman perangkat kantor.
+- Penjadwalan pengiriman.
+- Pencatatan barang masuk dan keluar.
+- Bukti serah terima.
+
+Status evaluasi: Aktif dalam database simulasi.
+
+### F. Detail Vendor VND-005
+
+Nama: PT Perangkat Kantor Dummy.
+
+Bidang: Peralatan kantor.
+
+Status: Ditangguhkan dalam skenario simulasi.
+
+Alasan: Terdapat dokumen penerimaan yang belum lengkap pada transaksi sebelumnya.
+
+Tindakan:
+1. Menahan transaksi baru.
+2. Meminta kelengkapan dokumen.
+3. Melakukan evaluasi ulang.
+4. Mengaktifkan kembali vendor jika persyaratan terpenuhi.
+
+### G. Formulir Evaluasi Vendor
+
+ID vendor: [ISI ID]
+
+Nama vendor: [ISI NAMA]
+
+Kesesuaian spesifikasi: [0-100]
+
+Ketepatan pengiriman: [0-100]
+
+Kualitas barang atau jasa: [0-100]
+
+Kelengkapan dokumen: [0-100]
+
+Respons terhadap keluhan: [0-100]
+
+Catatan evaluator: [ISI CATATAN]
+
+Rekomendasi:
+- Disetujui.
+- Disetujui dengan catatan.
+- Evaluasi lanjutan.
+- Ditangguhkan.

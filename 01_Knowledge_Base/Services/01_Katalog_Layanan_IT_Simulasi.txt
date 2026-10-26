@@ -1,0 +1,32 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Services
+doc_number: AMS-SRV-2026-001
+---
+
+# KATALOG LAYANAN TEKNOLOGI INFORMASI SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Layanan Implementasi Sistem Informasi
+- Analisis kebutuhan alur kerja dan rancang bangun arsitektur sistem.
+- Pengembangan aplikasi web internal perusahaan (manajemen dokumen, inventaris barang, arsip digital).
+- Integrasi basis data terpusat dan konfigurasi hak akses pengguna bertingkat.
+- Pelatihan pengguna akhir dan penyusunan panduan operasional sistem.
+
+## 2. Layanan Pengadaan dan Instalasi Perangkat Keras
+- Pengadaan unit komputer desktop, monitor bisnis, dan laptop operasional.
+- Perakitan, instalasi sistem operasi resmi, dan pengujian stabilitas perangkat keras.
+- Pengantaran ke lokasi kantor klien dan penataan kabel meja kerja secara rapi.
+
+## 3. Layanan Pembangunan Infrastruktur Jaringan
+- Pemasangan dan penarikan kabel jaringan LAN (UTP Cat 6).
+- Instalasi switch managed 24 port, router kantor, dan konfigurasi VLAN.
+- Penataan rak server, patch panel, dan manajemen label kabel terstruktur.
+- Pengujian konektivitas antartitik jaringan dan pelaporan throughput.
+
+## 4. Layanan Pemeliharaan dan Dukungan Teknis
+- Layanan pemeliharaan berkala perangkat keras kantor (tiap 3 bulan).
+- Dukungan pemecahan masalah (troubleshooting) perangkat lunak dan jaringan.
+- Garansi purna jual 90 hari setelah serah terima pekerjaan.

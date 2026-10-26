@@ -1,0 +1,18 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Photos
+doc_number: AMS-PHT-2026-001
+---
+
+# KATALOG DOKUMENTASI FOTO DAN VISUAL PROYEK SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Register Dokumentasi Foto Proyek
+- Ref: PHT-PRJ-001 | Deskripsi: Dokumentasi instalasi modul sistem inventaris di PT Sumber Data Contoh (Tahun 2022). Status berkas: Arsip visual digital tersimpan.
+- Ref: PHT-PRJ-002 | Deskripsi: Foto serah terima 25 unit komputer desktop kantor di PT Karya Nusantara Fiktif (Tahun 2023). Status berkas: Arsip visual digital tersimpan.
+- Ref: PHT-PRJ-003 | Deskripsi: Dokumentasi proses pemindaian fisik dan penataan berkas arsip di CV Arsip Digital Contoh (Tahun 2024). Status berkas: Arsip visual digital tersimpan.
+- Ref: PHT-PRJ-004 | Deskripsi: Foto rak server dan konfigurasi switch managed di PT Mitra Teknologi Simulasi (Tahun 2025). Status berkas: Arsip visual digital tersimpan.
+
+Catatan: Berkas biner visual asli disimpan dalam media penyimpanan cadangan terpisah.

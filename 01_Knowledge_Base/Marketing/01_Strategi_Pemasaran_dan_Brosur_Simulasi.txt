@@ -1,0 +1,24 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Marketing
+doc_number: AMS-MKT-2026-001
+---
+
+# PANDUAN DAN MATERI PEMASARAN SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Pesan Nilai Utama (Value Proposition)
+- Kecepatan Eksekusi: Jadwal pengadaan dan implementasi terencana dengan kontrol durasi kerja yang presisi.
+- Kemudahan Pemakaian: Solusi perangkat lunak dirancang sederhana tanpa memerlukan keahlian IT teknis tinggi.
+- Transparansi Biaya: Rencana anggaran biaya rinci dengan harga wajar tanpa biaya tersembunyi.
+
+## 2. Saluran Pemasaran Simulasi
+- Penawaran Langsung ke Klien Korporasi (Direct Corporate Pitch).
+- Partisipasi dalam Seleksi Pengadaan Terbuka (Tender Pengadaan IT).
+- Demo Aplikasi Dokumen Digital secara berkala untuk divisi operasional dan administrasi.
+
+## 3. Garansi dan Layanan Purna Jual
+- Garansi fungsi sistem selama 90 hari kalender setelah serah terima.
+- Layanan pendampingan langsung bagi staf pengguna pada minggu pertama peluncuran sistem.

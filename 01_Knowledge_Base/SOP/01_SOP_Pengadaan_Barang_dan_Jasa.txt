@@ -1,0 +1,144 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: SOP
+doc_number: AMS-SOP-PROC-001
+version: 1.0
+---
+
+# MANUAL DAN SOP
+## SOP Pengadaan Barang dan Jasa PT Amsyong
+
+Nomor Dokumen: AMS-SOP-PROC-001  
+Versi: 1.0  
+Tanggal Berlaku Simulasi: 1 Januari 2026  
+Pemilik Proses: Manajer Pengadaan
+
+### A. Tujuan
+
+Menetapkan prosedur pengadaan barang dan jasa agar proses berjalan terstruktur, terdokumentasi, dan dapat diaudit.
+
+### B. Ruang Lingkup
+
+SOP ini mencakup:
+- Penerimaan permintaan pengadaan.
+- Pemeriksaan kebutuhan.
+- Pemilihan vendor.
+- Evaluasi penawaran.
+- Persetujuan pembelian.
+- Penerimaan barang.
+- Pemeriksaan tagihan.
+- Pengarsipan dokumen.
+
+### C. Penanggung Jawab
+
+Pemohon: Mengajukan kebutuhan barang atau jasa.
+
+Manajer Pengadaan: Memeriksa kebutuhan dan mengelola pemilihan vendor.
+
+Manajer Keuangan: Memeriksa anggaran dan dokumen pembayaran.
+
+Direktur: Memberikan persetujuan sesuai batas kewenangan.
+
+Petugas Penerimaan: Memeriksa barang yang datang.
+
+### D. Prosedur Kerja
+
+**Langkah 1: Permintaan Pengadaan**
+
+Pemohon mengisi formulir permintaan yang memuat:
+- Nama barang atau jasa.
+- Jumlah.
+- Spesifikasi.
+- Alasan kebutuhan.
+- Jadwal kebutuhan.
+- Perkiraan anggaran.
+
+**Langkah 2: Pemeriksaan Kebutuhan**
+
+Manajer Pengadaan memeriksa kelengkapan permintaan dan memastikan spesifikasi cukup jelas.
+
+Jika informasi tidak lengkap, permintaan dikembalikan kepada pemohon untuk diperbaiki.
+
+**Langkah 3: Pemilihan Vendor**
+
+Petugas mengumpulkan penawaran dari vendor sesuai kebijakan perusahaan.
+
+Perbandingan dilakukan berdasarkan:
+- Harga.
+- Spesifikasi.
+- Waktu pengiriman.
+- Garansi.
+- Reputasi dan kelengkapan dokumen.
+
+**Langkah 4: Evaluasi Penawaran**
+
+Hasil evaluasi dicatat dalam tabel perbandingan vendor.
+
+Setiap penyimpangan dari prosedur normal harus disertai alasan dan persetujuan yang sesuai.
+
+**Langkah 5: Persetujuan**
+
+Pengadaan hanya dapat dilanjutkan setelah persetujuan dari pejabat yang berwenang diperoleh.
+
+**Langkah 6: Penerimaan Barang**
+
+Petugas memeriksa jumlah, kondisi, spesifikasi, dan dokumen pengiriman.
+
+Barang yang tidak sesuai dicatat dalam laporan ketidaksesuaian.
+
+**Langkah 7: Pemeriksaan Tagihan**
+
+Bagian keuangan mencocokkan:
+- Pesanan pembelian.
+- Bukti penerimaan.
+- Faktur vendor.
+
+Pembayaran diproses setelah dokumen yang diwajibkan dinyatakan sesuai.
+
+**Langkah 8: Pengarsipan**
+
+Dokumen disimpan berdasarkan nomor transaksi, tanggal, nama vendor, dan kategori pengadaan.
+
+### E. Standar Waktu Internal Simulasi
+
+| Aktivitas | Target Waktu |
+|---|---|
+| Pemeriksaan permintaan | 2 hari kerja |
+| Pengumpulan penawaran | 5 hari kerja |
+| Evaluasi penawaran | 3 hari kerja |
+| Persetujuan | 2 hari kerja |
+| Pemeriksaan barang | 1 hari kerja |
+| Pemeriksaan tagihan | 3 hari kerja |
+
+Target waktu dapat berubah sesuai kompleksitas pengadaan.
+
+### F. Penanganan Ketidaksesuaian
+
+Jika barang tidak sesuai:
+1. Petugas mencatat ketidaksesuaian.
+2. Barang dipisahkan dari barang yang telah diterima dengan baik.
+3. Vendor dihubungi untuk penyelesaian.
+4. Penggantian atau tindakan korektif dicatat.
+5. Penutupan kasus disetujui oleh pihak berwenang.
+
+### G. Rekaman yang Wajib Disimpan
+
+- Formulir permintaan pengadaan.
+- Penawaran vendor.
+- Tabel evaluasi.
+- Persetujuan pembelian.
+- Pesanan pembelian.
+- Bukti penerimaan.
+- Faktur.
+- Bukti pembayaran.
+- Laporan ketidaksesuaian.
+
+### H. Indikator Evaluasi
+
+- Persentase pengadaan tepat waktu.
+- Persentase barang sesuai spesifikasi.
+- Selisih biaya terhadap anggaran.
+- Jumlah pengadaan tanpa dokumen lengkap.
+- Jumlah keluhan terhadap vendor.

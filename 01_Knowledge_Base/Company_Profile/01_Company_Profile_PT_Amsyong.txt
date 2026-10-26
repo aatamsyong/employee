@@ -1,0 +1,65 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Company_Profile
+title: Profil Perusahaan PT Amsyong 2026
+---
+
+# COMPANY PROFILE
+## PT AMSYONG
+**Profil Perusahaan Tahun 2026**
+
+### A. Identitas Perusahaan
+
+Nama perusahaan: PT Amsyong  
+Bentuk usaha: Perseroan Terbatas (fiktif untuk kebutuhan developed)  
+Bidang usaha: Teknologi Informasi, Pengadaan Barang, dan Jasa Konsultasi  
+Tahun berdiri: 2019  
+Alamat kantor: Jl. Anggrek Simulasi No. 25, Jakarta Selatan, DKI Jakarta  
+Email: admin@amsyong.asi  
+Telepon: 021-5550-1234  
+Status dokumen: DATA SIMULASI
+
+### B. Sejarah Perusahaan
+
+PT Amsyong didirikan pada tahun 2019 sebagai perusahaan simulasi yang bergerak di bidang teknologi informasi dan pengadaan barang. Perusahaan memulai kegiatan usahanya dengan menyediakan layanan konsultasi sistem informasi untuk usaha kecil dan menengah.
+
+Pada tahun 2021, PT Amsyong mengembangkan layanan pengadaan perangkat komputer dan infrastruktur jaringan. Pada tahun 2023, perusahaan mulai menyediakan layanan digitalisasi dokumen dan pengembangan aplikasi internal.
+
+Pada tahun 2025, perusahaan memperluas portofolio simulasi dengan memasukkan layanan pemeliharaan perangkat keras, pengembangan sistem manajemen dokumen, dan pelatihan penggunaan aplikasi bisnis.
+
+### C. Visi
+
+Menjadi perusahaan penyedia solusi teknologi dan pengadaan yang efisien, transparan, dan berorientasi pada kebutuhan pelanggan.
+
+### D. Misi
+
+1. Menyediakan layanan teknologi informasi yang mudah digunakan.
+2. Mengutamakan transparansi dalam proses pengadaan.
+3. Mengembangkan sumber daya manusia yang kompeten.
+4. Menjaga kualitas pekerjaan melalui evaluasi berkala.
+5. Membangun hubungan kerja sama jangka panjang dengan pelanggan dan pemasok.
+
+### E. Struktur Organisasi
+
+- Direktur Utama: Budi Santoso
+- Manajer Operasional: Rina Pratiwi
+- Manajer Keuangan: Andi Firmansyah
+- Manajer Pengadaan: Siti Rahmawati
+- Manajer Teknologi Informasi: Dimas Prakoso
+- Staf Administrasi: Maya Lestari
+
+Seluruh nama personel merupakan nama fiktif untuk pengujian perangkat lunak.
+
+### F. Legalitas Perusahaan
+
+| Dokumen | Nomor Simulasi | Status |
+|---|---|---|
+| Akta Pendirian | SIM-AKTA-2019-001 | Data dummy |
+| Nomor Induk Berusaha | SIM-NIB-2026-001 | Data dummy |
+| NPWP Perusahaan | SIM-NPWP-001 | Data dummy |
+| Surat Keterangan Domisili | SIM-SKD-2026-001 | Data dummy |
+| Rekening Perusahaan | SIM-REK-001 | Data dummy |
+
+**Catatan:** Semua nomor di atas hanya untuk simulasi. Dokumen ini tidak membuktikan keberadaan atau legalitas perusahaan sungguhan.

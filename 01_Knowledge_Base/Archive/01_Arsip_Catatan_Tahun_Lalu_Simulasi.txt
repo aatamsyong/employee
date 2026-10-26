@@ -1,0 +1,19 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Archive
+doc_number: AMS-ARC-2026-001
+---
+
+# ARSIP DOKUMEN DAN CATATAN TRANSAKSI MASA LALU SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Ringkasan Catatan Kegiatan 2019-2021
+- Tahun 2019: Inisiasi pendirian dan penyediaan jasa konsultasi sistem komputer untuk usaha kecil menengah.
+- Tahun 2020: Uji coba pengembangan template administrasi dan pengarsipan digital sederhana.
+- Tahun 2021: Ekspansi penawaran ke pengadaan perangkat keras pendukung operasional kantor.
+
+## 2. Catatan Evaluasi Pekerjaan Masa Lalu
+- Seluruh pekerjaan tahun 2019 sampai 2021 telah ditutup administrasinya secara lengkap.
+- Berkas lama dikategorikan ke dalam arsip pasif dan hanya dibuka untuk kebutuhan audit simulasi.

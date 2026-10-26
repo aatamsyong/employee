@@ -1,0 +1,28 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Templates
+doc_number: AMS-TPL-2026-001
+---
+
+# TEMPLATE FORMULIR PERMINTAAN DAN BERITA ACARA SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Formulir Permintaan Pengadaan Barang (FPPB-01)
+- Nomor Pengajuan: [FPPB-YYYY-XXX]
+- Unit Kerja Pemohon: [Nama Divisi/Departemen]
+- Tanggal Pengajuan: [DD/MM/YYYY]
+- Rincian Barang/Jasa yang Diajukan:
+  1. Nama Barang: [Isi Nama Barang] | Jumlah: [X Unit] | Estimasi Biaya: [Rp ...]
+  2. Spesifikasi Teknis yang Diperlukan: [Isi Spesifikasi]
+- Alasan Kebutuhan: [Uraikan Kebutuhan Operasional]
+- Otorisasi: [Tanda Tangan Pemohon] | [Persetujuan Manajer]
+
+## 2. Format Berita Acara Serah Terima Barang (BAST-01)
+- Nomor Berita Acara: [BAST-YYYY-XXX]
+- Pada hari ini, tanggal [DD/MM/YYYY], pihak pertama telah menyerahkan kepada pihak kedua:
+  - Paket Barang: [Nama Paket Pengadaan]
+  - Kondisi Barang: 100% Baru, Berfungsi Baik, dan Lolos Uji Fungsi.
+- Pihak Pertama (Penyedia): PT Amsyong
+- Pihak Kedua (Penerima): [Nama Instansi/Klien]

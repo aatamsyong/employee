@@ -1,0 +1,20 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Competitors
+doc_number: AMS-COMP-2026-001
+---
+
+# ANALISIS PESAING DAN PASAR SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Profil Kompetitor Simulasi A: CV Rekanan Solusi Mandiri(Contoh)
+- Kekuatan: Menawarkan harga perangkat dasar yang relatif murah.
+- Kelemahan: Tidak menyediakan modul perangkat lunak terintegrasi dan layanan purna jual lambat.
+- Strategi Diferensiasi PT Amsyong: Menonjolkan paket terintegrasi (hardware dan software manajemen dokumen siap pakai) serta jaminan dukungan purna jual 90 hari.
+
+## 2. Profil Kompetitor Simulasi B: PT Mitra Teknologi Global (Contoh)
+- Kekuatan: Portofolio proyek skala besar di tingkat nasional.
+- Kelemahan: Struktur penawaran biaya lisensi sangat mahal dan kurang fleksibel untuk kebutuhan kustomisasi instansi menengah.
+- Strategi Diferensiasi PT Amsyong: Pendekatan fleksibel, struktur biaya terjangkau, dan implementasi yang ringkas tanpa beban lisensi tahunan yang memberatkan.

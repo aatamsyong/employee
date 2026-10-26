@@ -1,0 +1,20 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Clients
+subcategory: BUMN
+doc_number: AMS-CLI-BUMN-001
+---
+
+# STANDAR KUALIFIKASI DAN KETENTUAN MITRA BUMN SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Persyaratan Mitra Pengadaan BUMN
+- Surat Izin Usaha dan NIB yang masih berlaku.
+- Pengalaman kerja sejenis dalam 3 tahun terakhir dengan nilai kontrak yang relevan.
+- Rekening koran perusahaan 3 bulan terakhir yang menunjukkan kesehatan likuiditas.
+
+## 2. Ketentuan Kontrak dan Pembayaran
+- Sistem pembayaran berbasis termin sesuai progres pekerjaan fisik yang diverifikasi.
+- Penyediaan jaminan pelaksanaan dan jaminan pemeliharaan dari lembaga penjaminan resmi.

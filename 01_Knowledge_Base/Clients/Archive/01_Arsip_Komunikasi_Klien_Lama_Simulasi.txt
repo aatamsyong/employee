@@ -1,0 +1,18 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Clients
+subcategory: Archive
+doc_number: AMS-CLI-ARC-001
+---
+
+# ARSIP KOMUNIKASI DAN KORESPONDENSI KLIEN LAMA SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Catatan Surat Masuk dan Penawaran Kedaluwarsa
+- Arsip permohonan penawaran harga tahun 2022-2024 yang telah selesai atau tidak dilanjutkan.
+- Rekaman berita acara serah terima pekerjaan yang telah melampaui masa garansi aktif.
+
+## 2. Status Arsip
+- Seluruh dokumen dalam kategori ini bersifat non-aktif (read-only) untuk referensi historis sistem.

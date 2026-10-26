@@ -1,0 +1,19 @@
+---
+is_dummy: true
+source_type: synthetic
+verification_status: not_verified
+category: Clients
+subcategory: International
+doc_number: AMS-CLI-INT-001
+---
+
+# PANDUAN KERJASAMA DENGAN MITRA INTERNASIONAL SIMULASI
+PT Amsyong (Data Fiktif untuk Pengujian)
+
+## 1. Standar Komunikasi dan Dokumentasi
+- Korespondensi resmi menggunakan format dwibahasa (Bahasa Indonesia dan Bahasa Inggris).
+- Spesifikasi teknis perangkat keras wajib mencantumkan standar kompatibilitas tegangan listrik lokal (220V/50Hz).
+
+## 2. Ketentuan Legalitas dan Pengiriman Lintas Batas
+- Mengikuti prosedur kepabeanan dan regulasi impor perangkat teknologi resmi.
+- Penggunaan klausul Incoterms standar (FOB atau CIF) untuk skenario pengiriman perangkat.

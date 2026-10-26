@@ -1,0 +1,469 @@
+================================================================================
+   PANDUAN LENGKAP AIMSYPONG AI LAB - KARYAWAN VIRTUAL (AIMPLOYEE)
+   Untuk Pengguna 
+================================================================================
+
+Dokumen ini berisi CONTOH ISI LENGKAP untuk setiap modul di aplikasi.
+Anda bisa lihat contoh di bawah dan terapkan ini pada kolom yang sesuai.
+
+Aplikasi: http://localhost:8509
+Cara menjalankan: klik ganda file "run_app.bat"
+
+================================================================================
+MODUL 1: DASHBOARD (Layar Awal)
+================================================================================
+
+Fungsi: Lihat ringkasan sistem dan tombol aksi cepat.
+
+Apa yang harus dilakukan:
+- Tidak perlu isi apa-apa.
+- Lihat 4 kartu statistik di atas:
+    * "5+ Modul Aktif"         -> jumlah modul yang bisa dipakai
+    * "23 Dokumen Knowledge"   -> jumlah dokumen di perpustakaan
+    * "OFFLINE Engine AI"      -> otak AI yang sedang dipakai
+    * "0 OK Audit Trail"       -> status audit (live, berubah otomatis)
+
+Tombol Aksi Cepat (opsional, untuk coba-coba):
+- Klik "Buat Proposal Sistem Dokumen Digital"
+    -> otomatis melempar ke modul Proposal dengan contoh terisi.
+- Klik "Buat Presentasi Sistem Manajemen Dokumen"
+    -> otomatis melempar ke modul Presentasi dengan contoh terisi.
+- Klik "Buat SOP Pengadaan Barang dan Jasa"
+    -> otomatis melempar ke modul SOP dengan contoh terisi.
+
+================================================================================
+MODUL 2: PROPOSAL GENERATOR (Pembuat Proposal Word)
+================================================================================
+
+Fungsi: Membuat dokumen proposal teknis + komersial dalam format .docx.
+
+Langkah-langkah:
+1. Buka menu "Proposal Generator" di panel kiri.
+2. Isi form berikut (contoh siap copy-paste):
+
+   [Nama Klien / Calon Pengguna]
+   ISI DENGAN: PT Maju Jaya Sentosa
+
+   [Judul Proyek / Pengadaan]
+   ISI DENGAN: Pengadaan 50 Unit Komputer Desktop dan Instalasi Jaringan LAN
+
+   [Lingkup Layanan Terkait]  (centang yang sesuai, boleh lebih dari 1)
+   CENTANG SEMUA:
+     [x] Sistem Manajemen Dokumen
+     [x] Pengadaan Komputer Desktop
+     [x] Infrastruktur Jaringan LAN
+     [x] Digitalisasi Arsip
+     [x] Pelatihan Pengguna
+
+   [Estimasi Durasi (Minggu)]
+   ISI DENGAN: 8
+
+   [Deskripsi Kebutuhan Khusus / Syarat KAK]
+   ISI DENGAN:
+   Klien membutuhkan 50 unit komputer spesifikasi i5 Gen 10, RAM 16GB,
+   SSD 512GB, monitor 24 inch. Termasuk instalasi jaringan LAN untuk
+   3 lantai gedung, titik 60 port, dan pelatihan kepada 20 staf IT
+   selama 3 hari. Garansi minimal 3 tahun on-site.
+
+3. Klik tombol hijau "Jalankan Agen Pembuat Proposal".
+4. Tunggu 10-30 detik (ada animasi loading).
+5. Hasil yang muncul:
+   - Tombol "Unduh Dokumen PROPOSAL (.docx)" -> klik untuk download.
+   - Pratinjau Isi Proposal -> baca di layar.
+   - "Detail Eksekusi Multi-Agent" -> klik untuk lihat jejak agen.
+
+================================================================================
+MODUL 3: PRESENTASI GENERATOR (Pembuat Slide PowerPoint)
+================================================================================
+
+Fungsi: Membuat slide presentasi bisnis dalam format .pptx.
+
+Langkah-langkah:
+1. Buka menu "Presentasi Generator" di panel kiri.
+2. Isi form berikut:
+
+   [Judul Presentasi]
+   ISI DENGAN: Transformasi Digital PT Maju Jaya Sentosa
+
+   [Target Audiens]
+   ISI DENGAN: Dewan Direksi dan Manajer IT PT Maju Jaya Sentosa
+
+   [Jumlah Slide yang Diinginkan]
+   GESER SLIDER ke: 7
+
+   [Poin-Poin Utama yang Harus Dibahas]
+   ISI DENGAN:
+   - Latar belakang: sistem manual masih dominan
+   - Masalah: pencarian dokumen lambat, data tersebar
+   - Solusi: aplikasi manajemen dokumen terpusat
+   - Manfaat: efisiensi 60%, audit trail otomatis
+   - Tahapan implementasi: 6 bulan
+   - Anggaran estimasi: Rp 750 juta
+   - Penutup: ajakan rapat teknis lanjutan
+
+3. Klik tombol "Jalankan Agen Pembuat Presentasi".
+4. Tunggu 10-30 detik.
+5. Klik "Unduh Presentasi Slide (.pptx)" untuk download.
+
+================================================================================
+MODUL 4: SOP GENERATOR (Pembuat Standar Operasional Prosedur)
+================================================================================
+
+Fungsi: Membuat dokumen SOP resmi berstandar ISO dalam format .docx.
+
+Langkah-langkah:
+1. Buka menu "SOP Generator" di panel kiri.
+2. Isi form berikut:
+
+   [Judul SOP]
+   ISI DENGAN: SOP Pengadaan Barang dan Jasa IT
+
+   [Departemen / Divisi Pelaksana]
+   PILIH: Pengadaan & Logistik
+
+   [Instruksi / Batasan Khusus]
+   ISI DENGAN:
+   - Minimal 3 vendor pembanding untuk pengadaan di atas Rp 50 juta.
+   - Evaluasi maksimal 5 hari kerja setelah penawaran diterima.
+   - Persetujuan akhir oleh Direktur untuk nilai di atas Rp 200 juta.
+   - Barang harus bergaransi minimal 1 tahun.
+   - Vendor wajib terdaftar di database internal perusahaan.
+
+3. Klik tombol "Jalankan Agen Pembuat SOP".
+4. Tunggu 10-30 detik.
+5. Klik "Unduh Dokumen SOP (.docx)" untuk download.
+
+================================================================================
+MODUL 5: MARKETING & TENDER (Analis Tender)
+================================================================================
+
+Fungsi: Menganalisis dokumen tender dan menyusun strategi menang.
+
+Langkah-langkah:
+1. Buka menu "Marketing & Tender" di panel kiri.
+2. Isi form berikut:
+
+   [Masukkan Info / Persyaratan Tender]
+   ISI DENGAN:
+   Paket Pengadaan 100 unit komputer desktop dan infrastruktur jaringan
+   untuk Dinas Pendidikan Kota Simulasi. Pagu anggaran Rp 1,2 miliar.
+   Durasi pelaksanaan 90 hari kalender. Garansi 3 tahun on-site.
+   Wajib memiliki sertifikat ISO 9001 dan pengalaman minimal 3 proyek
+   sejenis di instansi pemerintah.
+
+   [Kompetitor yang Diketahui (Opsional)]
+   ISI DENGAN: CV Karya Mandiri, PT Solusi Nusantara
+
+3. Klik tombol "Analisis Persyaratan & Susun Strategi Menang".
+4. Tunggu 10-30 detik.
+5. Baca hasil analisis strategi di layar (tidak ada file download,
+   karena ini analisis teks).
+
+================================================================================
+MODUL 6: AI ASSISTANT (Chat dengan Aimployee)
+================================================================================
+
+Fungsi: Tanya jawab langsung seputar PT Amsyong.
+
+Langkah-langkah:
+1. Buka menu "AI Assistant" di panel kiri.
+2. Ketik pertanyaan di kolom bawah, contoh:
+
+   CONTOH 1: "Siapa saja klien PT Amsyong?"
+   CONTOH 2: "Berapa total nilai proyek di portofolio?"
+   CONTOH 3: "Apa layanan utama PT Amsyong?"
+   CONTOH 4: "Buatkan ringkasan SOP Pengadaan Barang."
+   CONTOH 5: "Sebutkan sertifikat yang dimiliki PT Amsyong."
+
+3. Tekan ENTER atau klik tombol kirim.
+4. Tunggu 5-15 detik.
+5. Jawaban muncul di layar, lengkap dengan jejak agen di bawahnya.
+6. Anda bisa tanya lagi, chat akan tersimpan di sesi ini.
+
+================================================================================
+MODUL 7: KNOWLEDGE BASE (Perpustakaan Dokumen)
+================================================================================
+
+Fungsi: Lihat, cari, dan tambah dokumen internal perusahaan.
+
+TAB 1 - "Cari & Telusuri Dokumen":
+   [Filter Kategori]
+   PILIH: Semua   (atau pilih kategori spesifik)
+
+   [Kata Kunci Pencarian]
+   ISI DENGAN: komputer   (atau: proposal, SOP, jaringan, dll)
+
+   -> Daftar dokumen yang cocok muncul di bawah.
+   -> Klik judul dokumen untuk lihat isinya.
+
+TAB 2 - "Tambah Dokumen Baru":
+   [Pilih Kategori Tujuan]
+   PILIH: Company_Profile   (atau kategori lain)
+
+   [Pilih Berkas]
+   KLIK "Choose File" -> pilih file dari komputer Anda.
+   Format yang diterima: .md, .txt, .docx, .pdf
+
+   -> Klik "Simpan Berkas ke Knowledge Base".
+   -> File akan di-upload dan otomatis di-index.
+
+TAB 3 - "Status Indeks":
+   -> Lihat statistik: jumlah dokumen, kategori, tipe file.
+   -> Klik "Segarkan / Re-index Seluruh Dokumen" jika perlu.
+
+================================================================================
+MODUL 8: SAFETY & GOVERNANCE (Keamanan Sistem)
+================================================================================
+
+Fungsi: Lihat konfigurasi keamanan dan keputusan manual.
+
+Apa yang ditampilkan:
+- Current Safety Configuration:
+    * max_tool_calls_per_workflow: 20
+    * max_retries_per_tool: 3
+    * max_workflow_duration_seconds: 300
+    * escalation_threshold_score: 50
+    * restricted_actions: delete_file, send_email, api_external_call
+
+- Policy Memory File: isi file memory/safety_policy.json
+- Human Override Log: daftar keputusan manual yang sudah disetujui
+- Pending Reviews: workflow yang menunggu persetujuan Anda
+
+Catatan: Modul ini untuk monitoring, tidak perlu diisi untuk pemakaian
+biasa.
+
+================================================================================
+MODUL 9: AUDIT LOG VIEWER (Riwayat Audit)
+================================================================================
+
+Fungsi: Lihat semua kejadian yang dicatat sistem.
+
+Filter yang bisa dipakai:
+   [Keyword]     -> isi dengan kata kunci, contoh: "proposal"
+   [Agent]       -> isi dengan nama agen, contoh: "Planner"
+   [Status]      -> pilih: SUCCESS / WARNING / FAILED / ESCALATED
+   [Type]        -> pilih: EVENT / POLICY_CHECK / FAILURE
+   [Limit]       -> geser slider: 10 - 200 entri
+
+Klik tombol cari -> daftar entri muncul di bawah, newest first.
+Klik panah pada entri untuk lihat detail JSON.
+
+================================================================================
+MODUL 10: MEMORY VIEWER (Memori Sistem)
+================================================================================
+
+Fungsi: Lihat apa yang diingat sistem dari workflow sebelumnya.
+
+3 bagian:
+1. Workflow History -> daftar semua workflow yang pernah dijalankan
+   (status, skor, durasi, jumlah error).
+
+2. Tool Memory -> statistik pemakaian tool:
+   - calls: berapa kali dipanggil
+   - failures: berapa kali gagal
+   - reliability_pct: persentase keberhasilan
+
+3. Other long-term entries -> data lain yang disimpan sistem.
+
+Catatan: Modul ini untuk monitoring, tidak perlu diisi.
+
+================================================================================
+MODUL 11: COMPLIANCE AUDIT (Uji Kepatuhan Sistem)
+================================================================================
+
+Fungsi: Jalankan tes otomatis untuk memastikan semua komponen bekerja.
+
+Langkah-langkah:
+1. Buka menu "Compliance Audit".
+2. Klik tombol "Run Compliance Audit".
+3. Tunggu 5-10 detik.
+4. Hasil muncul:
+   - Summary: jumlah VERIFIED / UNVERIFIED / NOT RUN
+   - Findings: tabel detail setiap probe
+   - Tombol "Download full report (.md)" -> klik untuk simpan laporan.
+
+Target: 14/14 VERIFIED (semua komponen bekerja).
+
+================================================================================
+PANEL SAMPING: SAFETY SETTINGS (Pengaturan Keamanan)
+================================================================================
+
+Lokasi: panel kiri, bagian paling bawah, klik "Safety Settings".
+
+4 pengaturan yang bisa diubah:
+
+1. [Escalation threshold score] (slider 0-100)
+   Arti: workflow dengan skor di bawah nilai ini akan minta persetujuan
+         manual.
+   Default: 50
+   Saran: jangan ubah kecuali Anda paham.
+
+2. [Max tool calls / workflow] (angka 1-200)
+   Arti: batas maksimal pemanggilan tool dalam 1 workflow.
+   Default: 20
+   Saran: jangan ubah.
+
+3. [Max workflow duration (seconds)] (angka 10-3600)
+   Arti: batas durasi 1 workflow.
+   Default: 300 (5 menit)
+   Saran: naikkan ke 600 jika workflow sering timeout.
+
+4. [Block prompts containing sensitive data] (checkbox)
+   Arti: blokir prompt yang mengandung kata "password", "api_key", dll.
+   Default: CENTANG (aktif)
+   Saran: BIARKAN TERCENTANG untuk keamanan.
+
+Klik "Save safety settings" setelah mengubah.
+
+================================================================================
+PANEL SAMPING: KONFIGURASI OTAK AI
+================================================================================
+
+Lokasi: panel kiri, di atas Safety Settings.
+
+1. [Provider LLM]
+   Pilihan:
+   - Offline Enterprise Engine  -> TANPA API KEY, pakai template bawaan
+   - Google Gemini              -> butuh API key Gemini
+   - OpenAI ChatGPT             -> butuh API key OpenAI
+   - Anthropic Claude           -> butuh API key Anthropic
+
+   SARAN UNTUK PEMULA: pilih "Offline Enterprise Engine".
+   Tidak perlu API key, langsung bisa dipakai.
+
+2. [API Key (Opsional)]
+   - Kosongkan jika pakai Offline Engine.
+   - Isi jika pilih provider cloud (Gemini/OpenAI/Claude).
+   - API key disimpan lokal, tidak dikirim ke mana-mana.
+
+================================================================================
+CONTOH SKENARIO PEMAKAIAN LENGKAP (STEP-BY-STEP)
+================================================================================
+
+SKENARIO A: Saya ingin membuat proposal untuk klien baru.
+   1. Klik menu "Proposal Generator".
+   2. Isi nama klien: PT ABC Sejahtera
+   3. Isi judul: Pengadaan Sistem Informasi Manajemen Gudang
+   4. Centang: Sistem Manajemen Dokumen, Pelatihan Pengguna
+   5. Durasi: 6 minggu
+   6. Deskripsi: Klien butuh sistem untuk tracking stok barang
+      real-time, integrasi barcode, dan laporan harian.
+   7. Klik "Jalankan Agen Pembuat Proposal".
+   8. Download file .docx yang muncul.
+
+SKENARIO B: Saya ingin tanya tentang layanan perusahaan.
+   1. Klik menu "AI Assistant".
+   2. Ketik: "Apa saja layanan PT Amsyong?"
+   3. Tekan ENTER.
+   4. Baca jawaban yang muncul.
+
+SKENARIO C: Saya ingin buat presentasi untuk meeting direksi.
+   1. Klik menu "Presentasi Generator".
+   2. Isi judul: Laporan Kinerja Q3 2026
+   3. Isi audiens: Dewan Direksi PT Amsyong
+   4. Geser slider jumlah slide: 6
+   5. Isi poin:
+      - Ringkasan kinerja Q3
+      - Pencapaian target revenue 110%
+      - Proyek baru yang dimenangkan
+      - Tantangan dan mitigasi
+      - Rencana Q4
+      - Penutup dan tanya jawab
+   6. Klik "Jalankan Agen Pembuat Presentasi".
+   7. Download file .pptx.
+
+SKENARIO D: Saya ingin cek apakah sistem bekerja normal.
+   1. Klik menu "Compliance Audit".
+   2. Klik "Run Compliance Audit".
+   3. Lihat summary: harus 14 VERIFIED, 0 UNVERIFIED.
+   4. Jika ada UNVERIFIED, laporkan ke tim IT.
+
+================================================================================
+TIPS & TRIK
+================================================================================
+
+1. Jika loading lama (> 1 menit):
+   - Cek koneksi internet (jika pakai API cloud).
+   - Ganti provider ke "Offline Enterprise Engine".
+
+2. Jika hasil kurang memuaskan:
+   - Perbanyak detail di kolom deskripsi/poin.
+   - Semakin spesifik input, semakin bagus output.
+
+3. Jika ingin mengulang:
+   - Cukup isi ulang form dan klik tombol jalankan lagi.
+   - Workflow lama tetap tersimpan di Audit Log.
+
+4. Jika ingin melihat workflow yang pernah dijalankan:
+   - Buka "Audit Log Viewer" atau "Memory Viewer".
+
+5. Jika download button tidak muncul:
+   - Cek tab "Audit Trail" di bawah hasil.
+   - Lihat apakah ada status "FAILED" atau "ESCALATED".
+   - Jika ESCALATED, akan muncul tombol Approve/Reject.
+
+6. Data sensitif:
+   - JANGAN tulis password, API key, atau data rahasia di kolom input.
+   - Sistem akan otomatis memblokir jika terdeteksi.
+
+================================================================================
+STRUKTUR FILE PENTING
+================================================================================
+
+Amsyong-AI-LAB/
+  app.py                  -> program utama (jangan dihapus)
+  run_app.bat             -> cara cepat menjalankan aplikasi
+  01_Knowledge_Base/      -> folder dokumen internal perusahaan
+  core/                   -> modul-modul inti sistem AI
+  logs/                   -> riwayat audit & laporan kepatuhan
+  memory/                 -> data persisten (policy, memori panjang)
+  output/                 -> file .docx / .pptx yang sudah dibuat
+  tests/                  -> test suite untuk developer
+  Progress_log.md         -> status penutupan gap audit
+  CHANGELOG.md            -> catatan perubahan
+  README.md               -> dokumentasi teknis
+  PANDUAN_PENGGUNA.txt    -> file ini
+
+================================================================================
+PERTANYAAN SERING DITANYA (FAQ)
+================================================================================
+
+T: Apakah aplikasi ini butuh internet?
+J: TIDAK, jika pakai "Offline Enterprise Engine". Butuh internet hanya
+   jika pakai Gemini/OpenAI/Claude.
+
+T: Apakah data saya aman?
+J: YA. Semua data disimpan lokal di komputer Anda. Tidak ada yang
+   dikirim ke server luar (kecuali Anda pilih provider cloud).
+
+T: Bisa buat proposal dalam bahasa Inggris?
+J: Bisa. Tulis saja permintaan dalam bahasa Inggris di kolom deskripsi.
+
+T: File .docx / .pptx disimpan di mana?
+J: Di folder "output/" dalam direktori proyek.
+
+T: Bagaimana cara menambah dokumen ke Knowledge Base?
+J: Buka modul "Knowledge Base" -> tab "Tambah Dokumen Baru" -> upload
+   file.
+
+T: Aplikasi error / tidak bisa dibuka?
+J: 1. Tutup semua jendela browser.
+   2. Buka Task Manager, cari "python.exe" -> End Task.
+   3. Klik ganda "run_app.bat" lagi.
+   4. Jika masih error, cek folder "logs/" untuk detail.
+
+T: Skor verifikasi selalu 100/100, apakah normal?
+J: Ya, jika pakai Offline Engine. Skor akan lebih bervariasi jika pakai
+   API cloud (Gemini/OpenAI/Claude).
+
+T: Apa itu "ESCALATED"?
+J: Status yang muncul jika skor verifikasi di bawah threshold (default
+   50). Anda akan diminta Approve atau Reject hasil workflow.
+
+================================================================================
+SELESAI. SELAMAT MENGGUNAKAN AIMPLOYEE!
+================================================================================
+
+Dibuat: 2026-10-26, oleh : wiwinwijaya1@gmail.com
+Versi aplikasi: Agent Orchestration compliant.
+Kontak developer: tim IT internal PT Amsyong.
