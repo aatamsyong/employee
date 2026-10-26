@@ -1,4 +1,4 @@
-"""Structured, persistent audit trail for the orchestration framework.
+"""Structured, persistent audit trail for the basic orchestration framework.
 
 Every entry is written twice:
 - ``logs/audit_trail.jsonl``: machine-readable, used for replay and search.

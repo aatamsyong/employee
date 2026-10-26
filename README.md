@@ -1,13 +1,13 @@
 # Sistem Karyawan Virtual (Aimployee)
 
-Platform operasional AI internal PT Amsyong yang mengintegrasikan Knowledge Base perusahaan dengan teknik Multi-Stage Pipeline Orchestration untuk menghasilkan output kerja nyata (Proposal Word, Presentasi PowerPoint, SOP, Analisis Tender, dan Asisten Interaktif).
+Platform operasional AI internal PT Amsyong yang mengintegrasikan Knowledge Base perusahaan dengan teknik Basic Multi-Stage Pipeline Orchestration untuk menghasilkan output kerja nyata (Proposal Word, Presentasi PowerPoint, SOP, Analisis Tender, dan Asisten Interaktif).
 
 ---
 
-## 1. Arsitektur Multi-Stage Pipeline Orchestration
+## 1. Arsitektur Basic Multi-Stage Pipeline Orchestration
 Sistem dibangun berdasarkan prinsip pipeline modular dengan separation of concerns:
 1. **Planner Agent** — mengurai tugas menjadi sub-langkah terstruktur dan menentukan batasan kerja.
-2. **Retrieval Agent** — mengambil bukti faktual dari repositori `01_Knowledge_Base` (RAG).
+2. **Retrieval Stage** — mengambil bukti faktual dari repositori `01_Knowledge_Base` melalui keyword search.
 3. **Specialist Generator Agent** — memproduksi konten domain spesifik (Proposal, Presentasi, SOP, Marketing).
 4. **Critic / Verifier Agent** — melakukan audit akurasi fakta, validasi format, mitigasi halusinasi, dan loop revisi.
 5. **Tool Agent** — merakit output terverifikasi menjadi dokumen fisik (`.docx` dan `.pptx`) dengan otorisasi, budget, dan validator output.
@@ -23,9 +23,9 @@ Sistem dibangun berdasarkan prinsip pipeline modular dengan separation of concer
 project/
 ├── 01_Knowledge_Base/       # Repositori data & dokumen acuan AI
 ├── core/                    # Engine inti sistem
-│   ├── knowledge_base.py    # Mesin indexing dan pencarian RAG
+│   ├── knowledge_base.py    # Mesin indexing dan pencarian keyword
 │   ├── llm_client.py        # Gateway multi-provider (Gemini, OpenAI, Claude, Offline)
-│   ├── orchestrator.py      # Orkestrator multi-agen & quality gate
+│   ├── orchestrator.py      # Basic orchestrator & quality gate
 │   ├── tool_agent.py        # Pemanggil tool dengan otorisasi & validator
 │   ├── audit_logger.py      # Audit trail JSONL + rotating audit.log
 │   ├── memory_manager.py    # Short/long-term memory, task-state, artifacts

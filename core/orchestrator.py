@@ -1,6 +1,6 @@
-"""Multi-agent orchestrator implementing the ASI control-flow contract.
+"""Basic orchestrator implementing the ASI control-flow contract.
 
-Agents: Planner, Retrieval, Specialist, Critic/Verifier, Tool Agent.
+Stages: Planner, Retrieval, Specialist, Critic/Verifier, Tool Agent.
 Control flow: routing, retry, timeout, verification, escalation, audit logging.
 """
 

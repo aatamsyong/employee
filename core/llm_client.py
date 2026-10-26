@@ -1,6 +1,6 @@
 """LLM client: dispatches prompts to cloud providers or the offline engine.
 
-Tracks ``last_error`` and ``last_provider_used`` so the orchestrator can
+Tracks ``last_error`` and ``last_provider_used`` so the basic orchestrator can
 detect fallbacks without parsing the content string.
 """
 

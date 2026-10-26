@@ -1,6 +1,6 @@
 """Built-in compliance audit mode.
 
-Runs live probes against a sandbox orchestrator (temp dirs, offline LLM)
+Runs live probes against a sandbox basic orchestrator (temp dirs, offline LLM)
 and produces a timestamped markdown report. Every claim is labeled
 [VERIFIED] / [UNVERIFIED] / [NOT RUN] per the ASI spec.
 """

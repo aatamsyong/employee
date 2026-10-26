@@ -323,7 +323,7 @@ elif menu == "📑 Proposal Generator":
         if not project_title:
             st.error("Silakan isi Judul Proyek terlebih dahulu.")
         else:
-            with st.spinner("Pipeline Orchestrator sedang bekerja..."):
+            with st.spinner("Basic Pipeline Orchestrator sedang bekerja..."):
                 extra_params = {
                     "client_name": client_name or "Klien Mitra PT Amsyong",
                     "project_title": project_title,
@@ -369,7 +369,7 @@ elif menu == "📊 Presentasi Generator":
         if not pres_title:
             st.error("Silakan isi Judul Presentasi.")
         else:
-            with st.spinner("Pipeline Orchestrator sedang merancang alur slide..."):
+            with st.spinner("Basic Pipeline Orchestrator sedang merancang alur slide..."):
                 extra_params = {
                     "project_title": pres_title,
                     "client_name": pres_audience or "Audiens Eksekutif",
@@ -414,7 +414,7 @@ elif menu == "📃 SOP Generator":
         if not sop_title:
             st.error("Silakan isi Judul SOP.")
         else:
-            with st.spinner("Pipeline Orchestrator sedang memverifikasi standar administrasi..."):
+            with st.spinner("Basic Pipeline Orchestrator sedang memverifikasi standar administrasi..."):
                 extra_params = {"project_title": sop_title, "department": department}
                 combined_prompt = (f"Buatkan SOP resmi PT Amsyong untuk: {sop_title}. "
                                    f"Departemen: {department}. Ketentuan khusus: {safety_rules}")
@@ -729,10 +729,10 @@ elif menu == "🧠 Memory Viewer":
 # ========================================================================
 elif menu == "🧪 Compliance Audit":
     st.markdown('<div class="main-header">🧪 Compliance Audit Mode</div>', unsafe_allow_html=True)
-    st.markdown('<div class="sub-header">Run live probes against the orchestration stack. Every claim is VERIFIED / UNVERIFIED / NOT RUN.</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sub-header">Run live probes against the basic orchestration stack. Every claim is VERIFIED / UNVERIFIED / NOT RUN.</div>', unsafe_allow_html=True)
 
     if st.button("🚀 Run Compliance Audit", use_container_width=True):
-        with st.spinner("Probing orchestrator components in a sandbox..."):
+        with st.spinner("Probing basic orchestrator components in a sandbox..."):
             auditor = ComplianceAuditor(BASE_DIR)
             report = auditor.run()
         st.markdown(f"**Duration:** {report['duration_sec']}s &nbsp; | &nbsp; "

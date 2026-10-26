@@ -1,4 +1,4 @@
-"""Test suite for the orchestration framework.
+"""Test suite for the basic orchestration framework.
 
 Run from the project root:
     python -m pytest tests/ -v

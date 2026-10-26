@@ -465,5 +465,5 @@ SELESAI. SELAMAT MENGGUNAKAN AIMPLOYEE!
 ================================================================================
 
 Dibuat: 2026-10-26, oleh : wiwinwijaya1@gmail.com
-Versi aplikasi: Agent Orchestration compliant.
+Versi aplikasi: Basic Orchestrator pipeline.
 Kontak developer: tim IT internal PT Amsyong.
