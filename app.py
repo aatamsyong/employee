@@ -59,17 +59,17 @@ st.markdown("""
     .status-PASSED_NO_ARTIFACT { color: #d97706; font-weight: 600; }
     .watermark {
         position: fixed;
-        right: 12px;
+        left: 12px;
         bottom: 12px;
-        z-index: 999;
-        opacity: 0.85;
+        z-index: 9999;
+        opacity: 1.0;
         pointer-events: none;
     }
     .watermark img {
-        max-width: 140px;
+        max-width: 160px;
         height: auto;
         border-radius: 6px;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+        box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     }
 </style>
 <div class="watermark"><img src="app/static/watermark.jpg" alt="watermark"></div>
