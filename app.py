@@ -2,7 +2,6 @@ import os
 import sys
 import glob
 import json
-import base64
 import streamlit as st
 from datetime import datetime
 
@@ -28,12 +27,6 @@ LOG_DIR = os.path.join(BASE_DIR, "logs")
 MEMORY_DIR = os.path.join(BASE_DIR, "memory")
 for d in (OUTPUT_DIR, LOG_DIR, MEMORY_DIR):
     os.makedirs(d, exist_ok=True)
-
-_WM_PATH = os.path.join(BASE_DIR, "static", "watermark.jpg")
-_WM_DATA_URI = ""
-if os.path.exists(_WM_PATH):
-    with open(_WM_PATH, "rb") as _wm_f:
-        _WM_DATA_URI = "data:image/jpeg;base64," + base64.b64encode(_wm_f.read()).decode("ascii")
 
 
 # -- Cached singletons (persist across reruns) -------------------------
@@ -66,26 +59,27 @@ st.markdown("""
     .status-PASSED_NO_ARTIFACT { color: #d97706; font-weight: 600; }
     .watermark {
         position: fixed;
-        left: 12px;
-        bottom: 12px;
+        left: 16px;
+        bottom: 14px;
         z-index: 99999;
-        opacity: 1.0;
+        opacity: 0.75;
         pointer-events: none;
-    }
-    .watermark img {
-        max-width: 160px;
-        height: auto;
+        font-size: 13px;
+        font-weight: 600;
+        letter-spacing: 0.3px;
+        color: #102C57;
+        background: rgba(255, 255, 255, 0.85);
+        padding: 4px 10px;
         border-radius: 6px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
     }
 </style>
 """, unsafe_allow_html=True)
 
-if _WM_DATA_URI:
-    st.markdown(
-        f'<div class="watermark"><img src="{_WM_DATA_URI}" alt="watermark"></div>',
-        unsafe_allow_html=True,
-    )
+st.markdown(
+    '<div class="watermark">wiwinwijaya1@gmail.com 2026</div>',
+    unsafe_allow_html=True,
+)
 
 
 # -- Helpers -------------------------------------------------------------
