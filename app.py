@@ -2,6 +2,7 @@ import os
 import sys
 import glob
 import json
+import base64
 import streamlit as st
 from datetime import datetime
 
@@ -27,6 +28,12 @@ LOG_DIR = os.path.join(BASE_DIR, "logs")
 MEMORY_DIR = os.path.join(BASE_DIR, "memory")
 for d in (OUTPUT_DIR, LOG_DIR, MEMORY_DIR):
     os.makedirs(d, exist_ok=True)
+
+_WM_PATH = os.path.join(BASE_DIR, "static", "watermark.jpg")
+_WM_DATA_URI = ""
+if os.path.exists(_WM_PATH):
+    with open(_WM_PATH, "rb") as _wm_f:
+        _WM_DATA_URI = "data:image/jpeg;base64," + base64.b64encode(_wm_f.read()).decode("ascii")
 
 
 # -- Cached singletons (persist across reruns) -------------------------
@@ -72,8 +79,13 @@ st.markdown("""
         box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     }
 </style>
-<div class="watermark"><img src="/static/watermark.jpg" alt="watermark"></div>
 """, unsafe_allow_html=True)
+
+if _WM_DATA_URI:
+    st.markdown(
+        f'<div class="watermark"><img src="{_WM_DATA_URI}" alt="watermark"></div>',
+        unsafe_allow_html=True,
+    )
 
 
 # -- Helpers -------------------------------------------------------------
