@@ -61,7 +61,7 @@ st.markdown("""
         position: fixed;
         left: 12px;
         bottom: 12px;
-        z-index: 9999;
+        z-index: 99999;
         opacity: 1.0;
         pointer-events: none;
     }
@@ -72,7 +72,7 @@ st.markdown("""
         box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     }
 </style>
-<div class="watermark"><img src="static/watermark.jpg" alt="watermark"></div>
+<div class="watermark"><img src="/static/watermark.jpg" alt="watermark"></div>
 """, unsafe_allow_html=True)
 
 
