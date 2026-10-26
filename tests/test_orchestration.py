@@ -1,4 +1,4 @@
-"""Test suite for the Amsyong-AI-LAB orchestration framework.
+"""Test suite for the orchestration framework.
 
 Run from the project root:
     python -m pytest tests/ -v

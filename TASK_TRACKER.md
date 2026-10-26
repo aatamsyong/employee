@@ -5,7 +5,7 @@
 | Set up folder structure | Setup | Completed | AI | Enterprise folder layout |
 | Populate Company Profile | Knowledge Base | Completed | AI | PT Amsyong (simulated data) |
 | Populate Services | Knowledge Base | Completed | AI | Procurement, Network, Document Mgmt |
-| Multi-Agent Orchestrator | Core | Completed | AI | Per ASI Agent Orchestration spec |
+| Multi-Stage Pipeline Orchestrator | Core | Completed | AI | Per ASI Agent Orchestration spec |
 | Web Application (Streamlit) | UI | Completed | AI | Dashboard, Proposal, Slide, SOP, Assistant, KB |
 | **Tool Agent** | Core | **Done** | AI | Authorization, budget, validators, tool memory |
 | **Audit logging** | Core | **Done** | AI | JSONL + rotating `audit.log`, secret redaction |

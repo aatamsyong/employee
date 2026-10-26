@@ -1,6 +1,6 @@
 # Project Structure
 
-Penjelasan struktur folder di `Amsyong-AI-LAB`:
+Penjelasan struktur folder project:
 
 - `00_Project_Management`: Jadwal, meeting notes, dan tracker.
 - `01_Knowledge_Base`: Tempat penyimpanan seluruh data perusahaan untuk AI.

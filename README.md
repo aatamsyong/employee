@@ -1,11 +1,11 @@
-# Amsyong AI LAB - Sistem Karyawan Virtual (Aimployee)
+# Sistem Karyawan Virtual (Aimployee)
 
-Platform operasional AI internal PT Amsyong yang mengintegrasikan Knowledge Base perusahaan dengan teknik Multi-Agent Orchestration untuk menghasilkan output kerja nyata (Proposal Word, Presentasi PowerPoint, SOP, Analisis Tender, dan Asisten Interaktif).
+Platform operasional AI internal PT Amsyong yang mengintegrasikan Knowledge Base perusahaan dengan teknik Multi-Stage Pipeline Orchestration untuk menghasilkan output kerja nyata (Proposal Word, Presentasi PowerPoint, SOP, Analisis Tender, dan Asisten Interaktif).
 
 ---
 
-## 1. Arsitektur Multi-Agent Orchestration
-Sistem dibangun berdasarkan prinsip disiplin orkestrasi agen:
+## 1. Arsitektur Multi-Stage Pipeline Orchestration
+Sistem dibangun berdasarkan prinsip pipeline modular dengan separation of concerns:
 1. **Planner Agent** — mengurai tugas menjadi sub-langkah terstruktur dan menentukan batasan kerja.
 2. **Retrieval Agent** — mengambil bukti faktual dari repositori `01_Knowledge_Base` (RAG).
 3. **Specialist Generator Agent** — memproduksi konten domain spesifik (Proposal, Presentasi, SOP, Marketing).
@@ -20,7 +20,7 @@ Sistem dibangun berdasarkan prinsip disiplin orkestrasi agen:
 
 ## 2. Struktur Direktori Proyek
 ```text
-Amsyong-AI-LAB/
+project/
 ├── 01_Knowledge_Base/       # Repositori data & dokumen acuan AI
 ├── core/                    # Engine inti sistem
 │   ├── knowledge_base.py    # Mesin indexing dan pencarian RAG
@@ -64,7 +64,7 @@ Amsyong-AI-LAB/
 ---
 
 ## 4. Cara Menjalankan Aplikasi
-1. Buka folder `D:\zzzzzzzzzzz AntiGravity\! Karyawan AI\Amsyong-AI-LAB`.
+1. Buka folder project ini.
 2. Klik ganda file `run_app.bat`, atau jalankan melalui terminal:
    ```powershell
    streamlit run app.py

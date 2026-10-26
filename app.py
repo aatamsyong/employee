@@ -115,7 +115,7 @@ def render_workflow_summary(result: dict) -> None:
 
 
 def render_orchestration_trace(result: dict) -> None:
-    with st.expander("🔍 Detail Eksekusi Multi-Agent (Audit Trail)", expanded=False):
+    with st.expander("Detail Eksekusi Pipeline (Audit Trail)", expanded=False):
         render_workflow_summary(result)
         st.markdown("#### 1. Rencana Eksekusi (Planner Agent)")
         for idx, step in enumerate(result.get("plan_steps", []), 1):
@@ -323,7 +323,7 @@ elif menu == "📑 Proposal Generator":
         if not project_title:
             st.error("Silakan isi Judul Proyek terlebih dahulu.")
         else:
-            with st.spinner("Multi-Agent Orchestrator sedang bekerja..."):
+            with st.spinner("Pipeline Orchestrator sedang bekerja..."):
                 extra_params = {
                     "client_name": client_name or "Klien Mitra PT Amsyong",
                     "project_title": project_title,
@@ -369,7 +369,7 @@ elif menu == "📊 Presentasi Generator":
         if not pres_title:
             st.error("Silakan isi Judul Presentasi.")
         else:
-            with st.spinner("Multi-Agent Orchestrator sedang merancang alur slide..."):
+            with st.spinner("Pipeline Orchestrator sedang merancang alur slide..."):
                 extra_params = {
                     "project_title": pres_title,
                     "client_name": pres_audience or "Audiens Eksekutif",
@@ -414,7 +414,7 @@ elif menu == "📃 SOP Generator":
         if not sop_title:
             st.error("Silakan isi Judul SOP.")
         else:
-            with st.spinner("Multi-Agent Orchestrator sedang memverifikasi standar administrasi..."):
+            with st.spinner("Pipeline Orchestrator sedang memverifikasi standar administrasi..."):
                 extra_params = {"project_title": sop_title, "department": department}
                 combined_prompt = (f"Buatkan SOP resmi PT Amsyong untuk: {sop_title}. "
                                    f"Departemen: {department}. Ketentuan khusus: {safety_rules}")

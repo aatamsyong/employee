@@ -70,7 +70,7 @@ Langkah-langkah:
 5. Hasil yang muncul:
    - Tombol "Unduh Dokumen PROPOSAL (.docx)" -> klik untuk download.
    - Pratinjau Isi Proposal -> baca di layar.
-   - "Detail Eksekusi Multi-Agent" -> klik untuk lihat jejak agen.
+   - "Detail Eksekusi Pipeline" -> klik untuk lihat jejak eksekusi.
 
 ================================================================================
 MODUL 3: PRESENTASI GENERATOR (Pembuat Slide PowerPoint)
@@ -410,7 +410,7 @@ TIPS & TRIK
 STRUKTUR FILE PENTING
 ================================================================================
 
-Amsyong-AI-LAB/
+project/
   app.py                  -> program utama (jangan dihapus)
   run_app.bat             -> cara cepat menjalankan aplikasi
   01_Knowledge_Base/      -> folder dokumen internal perusahaan
